@@ -17,3 +17,7 @@ REST API との違いをしっかりと学ぶ
 - npm i graphql apollo-server -D ... バックエンドで用いる GraphQL とアポロサーバのインストール
 - npm create vite@latest ... vite を用いて React をインストール(vite は従来のビルドツールに比べて、高速で動作するもの)
 - npm i @apollo/client @apollo/react-hooks graphql apollo-boost ... backend で用意した API にアクセスするためのライブラリをインストール
+
+## reference
+
+https://youtu.be/u8vD2NESjC0?si=kphVoBALVnQguN9F
